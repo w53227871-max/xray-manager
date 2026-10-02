@@ -31,3 +31,6 @@ Thumbs.db
 # Editor files
 .vscode/
 .idea/
+
+# Runtime Xray configs
+config/
